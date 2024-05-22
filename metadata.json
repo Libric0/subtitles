@@ -1,0 +1,9 @@
+{
+  "name": "Subtitles",
+  "description": "Creates live subtitles of your computer's audio output and displays them discretely on the screen.",
+  "uuid": "subtitles@librico.org",
+  "shell-version": [
+    "46"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.subtitles"
+}

@@ -1,0 +1,14 @@
+/* Add your custom extension styling here */
+.subtitle-container {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: -9999;
+}
+
+.subtitle-text {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
